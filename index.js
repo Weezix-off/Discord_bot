@@ -47,7 +47,7 @@ player.on('queueEnd', queue => {
 });
 
 client.once('ready', async () => {
-  console.log(`${proccess.env.TOKEN}`);
+  console.log('ready');
 });
 
 client.on('ready', function() {
