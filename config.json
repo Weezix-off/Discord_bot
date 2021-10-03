@@ -1,6 +1,6 @@
 {
     "prefix": "!",
-    "token": process.env.TOKEN,
+    "token": "ODg5MjY0MjA1NTQ5NjkwOTEw.YUet1A.9KYRNcp_XR-zmu-LvtuBuauenI4",
     "activityType": "PLAYING",
     "activity": "your music selections"
 }
