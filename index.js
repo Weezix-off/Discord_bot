@@ -25,11 +25,11 @@ player.on('error', (queue, error) => {
 player.on('connectionError', (queue, error) => {
   console.log(`[${queue.guild.name}] Error emitted from the connection: ${error.message}`);
 });
-
+/*
 player.on('trackStart', (queue, track) => {
   queue.metadata.send(`▶ | Started playing: **${track.title}** in **${queue.connection.channel.name}**!`);
 });
-
+*/
 player.on('trackAdd', (queue, track) => {
   queue.metadata.send(`🎶 | Track **${track.title}** queued!`);
 });
