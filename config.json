@@ -1,6 +1,6 @@
 {
     "prefix": "!",
-    "token": "proccess.env.TOKEN",
+    "token": "YOUR_TOKEN",
     "activityType": "PLAYING",
     "activity": "your music selections"
 }
