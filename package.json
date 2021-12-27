@@ -13,7 +13,10 @@
     "discord",
     "music",
     "bot"
-  ],
+  ],  
+  "engines": {
+    "node": "16.9.1"
+  },
   "author": "Gabriel Tanner",
   "license": "MIT",
   "dependencies": {
